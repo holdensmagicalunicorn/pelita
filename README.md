@@ -62,7 +62,7 @@ We use a combination of [Sphinx](http://sphinx.pocoo.org/) and
 [github-pages](http://pages.github.com/) to host the project website:
 [http://debilski.github.com/pelita/](http://debilski.github.com/pelita/).
 
-This means the sphinx generated content is keept in a seperate branch in the
+This means the sphinx generated content is keept in a separate branch in the
 source code repository `gh-pages`. This branch has its own root commit and is
 hence disconnected from the commits that track the project code and also the
 documentation source code.
